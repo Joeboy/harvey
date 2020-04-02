@@ -1,0 +1,10 @@
+"""Copy this file to settings.py and set the values as appropriate.
+https://id.getharvest.com/developers will be helpful."""
+
+PERSONAL_ACCESS_TOKEN = "MY-ACCESS-TOKEN-GOES-HERE"
+ACCOUNT_ID = "999999"
+USER_ID = "9999999"
+USER_AGENT = "My Harvest timesheet app"
+API_ROOT = "https://api.harvestapp.com/api"
+PROJECT_ID = 99999999
+TASK_ID = 9999999
